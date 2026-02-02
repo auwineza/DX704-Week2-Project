@@ -1,0 +1,5 @@
+I used ChatGPT (OpenAI) as a generative AI assistant to help with this project. ChatGPT was used to clarify assignment instructions, reason through the modeling approach, debug Python code, and interpret results. All code was reviewed, executed, and validated by me in my own environment.
+
+No other outside sources or individuals were consulted for this assignment.
+
+Only standard Python libraries covered in the course (pandas and numpy) were used.
